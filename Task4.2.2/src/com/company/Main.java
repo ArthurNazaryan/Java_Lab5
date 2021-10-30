@@ -18,7 +18,7 @@ public class Main {
     }
 
     public static void printArray(float[] arr, int N) {
-        for (int i = 0; i < N; i++) { // Цикл для ввода элементов массива negativeNumbers
+        for (int i = 0; i < N; i++) { // Цикл для вывода элементов массива negativeNumbers
             System.out.print(arr[i] + " ");
         }
     }
